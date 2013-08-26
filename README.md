@@ -1,4 +1,8 @@
-[Langton's ant][1] を python + matplotlib で． 
+[Langton's ant][1] を python + matplotlib で．
+
+#### Useage
+``` $ ./langtons_ant.py width height number-of-ants```
+number-of-ants はデフォルトで1.
 
 ##### TODO 
 * いろんなルール
