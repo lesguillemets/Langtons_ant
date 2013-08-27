@@ -30,8 +30,11 @@ langtons_ant.py
 ![screenshot 2](./screenshots/figure_2.png)
 
 langtons_extended.py
+LLRRRLRLRLLR
 ![LLRRRLRLRLLR](./screenshots/LLRRRLRLRLLR.png)
+RLRSRSLSSSLSRSSLSRSLSSS
 ![RLRSRSLSSSLSRSSLSRSLSSS](./screenshots/RLRSRSLSSSLSRSSLSRSLSSS.png)
-![RRLLLRLLLRRR](./screenshots/.RRLLLRLLLRRRpng)
+RRLLLRLLLRRR
+![RRLLLRLLLRRR](./screenshots/RRLLLRLLLRRR.png)
 
 [1]: http://en.wikipedia.org/wiki/Langton%27s_ant
